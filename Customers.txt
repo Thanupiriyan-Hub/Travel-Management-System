@@ -1,0 +1,7 @@
+
+Customer ID: 123
+Name: Nimal
+Age: 25
+Mobile Number: 771234567
+Address: 25,colombostrt
+Gender: Male
