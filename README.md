@@ -1,5 +1,7 @@
 # Travel Management System
 
+![Travel Management System Logo](TravelgenPNG.PNG)
+
 ## Overview
 The **Travel Management System** is a project developed for an Object-Oriented Programming (OOP) subject. It is designed to simplify and organize travel-related tasks such as managing trips, bookings, and user details. The system leverages core OOP principles like inheritance, encapsulation, and polymorphism to ensure a modular, reusable, and maintainable codebase.
 
