@@ -52,7 +52,7 @@ The **Travel Management System** is a project developed for an Object-Oriented P
 ## Contributors
 - **Thanupiriyan S**
 - **Thushithan S**
-- **Promodaya S**
+- **Kumari D.P.P**
 
 ## Contributing
 Feel free to fork the repository and submit pull requests to contribute to the project. Suggestions and improvements are welcome!
