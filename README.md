@@ -23,7 +23,7 @@ The **Travel Management System** is a project developed for an Object-Oriented P
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/travel-management-system.git
+   git clone https://github.com/Thanupiriyan-Hub/Travel-Management-System.git
    cd travel-management-system
    ```
 2. Compile the code using a C++ compiler, e.g., `g++`:
